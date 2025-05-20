@@ -1,0 +1,12 @@
+NO ./textures/north.xpm
+SO ./textures/south.xpm
+WE ./textures/west.xpm
+EA ./textures/east.xpm
+
+F 220,100,0
+C 0,150,255
+
+11111111
+100000N1
+101 0101  // Space making it open
+11111111
